@@ -72,3 +72,13 @@ layout: default
 | **URL**     | <https://github.com/mcanevet/puppet-lint-unquoted_string-check> |
 | **Install** | `gem install puppet-lint-unquoted_string-check`                 |
 {: .table .table-condensed }
+
+---
+
+### resource_outside_class
+
+> Check that resources in a manifest are contained by a class or defiend tpe definition
+
+| **URL**     | <https://github.com/llowder/puppet-lint-resource_outside_class-check> |
+| **Install** | `gem install puppet-lint-resource_outside_class-check`                 |
+{: .table .table-condensed }
